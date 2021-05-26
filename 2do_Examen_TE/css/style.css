@@ -1,0 +1,47 @@
+ /*-- header*/
+ .navbar{
+ 	margin-bottom: 0;
+    background-color: black;
+
+ }
+ 
+ #buscador, #tabla_resultado {
+    color:#000;
+    font:150%/150% "Commons";
+ }
+
+ .main{
+ 	margin-top: 20px;
+ 	margin-bottom: 20px;
+ }
+
+ .post{
+ 	padding-bottom: 20px;
+ 	margin-bottom: 20px;
+ 	border-bottom: 1px solid #999;
+ }
+ .post .thumb{
+ 	margin-right:10px;
+ 	width: 40px;
+ }
+body {
+
+        background-image: url("../img/auto.jpg");
+        background-size: 100%;
+        color: white;
+        font-family: serif;
+}
+.color{
+    background-color: gray;
+}
+.caption{
+    background-color: silver;
+}
+h1{
+    font-size: 300%;
+}
+.borde{
+    color: white;
+}
+
+.table}
